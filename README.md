@@ -1,7 +1,7 @@
 # Yard-sale-project
 course project (HTML - CSS - JS vanilla 🍦 )
 
-Watch deploy= 
+Watch deploy= https://biggyhands.github.io/Yard-sale-project/index.html
 
 PREVIEW
 
